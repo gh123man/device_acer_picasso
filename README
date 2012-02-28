@@ -1,0 +1,9 @@
+Device configuration for the acer iconia a500 (picasso)
+
+to compile cm version go to /vendor/cm/vendorsetup.sh
+and add "add_lunch_combo cm_picasso-userdebug"
+
+compile and have fun!
+
+Always Open.
+Brian Floersch (gh123man)
