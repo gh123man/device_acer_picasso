@@ -33,6 +33,6 @@ PRODUCT_COPY_FILES += \
         device/acer/picasso/vold.fstab:system/etc/vold.fstab \
         device/acer/picasso/panjit_touch.idc:system/usr/idc/panjit_touch.idc \
         device/acer/picasso/atmel-maxtouch.idc:system/usr/idc/atmel-maxtouch.idc \
-	device/acer/picasso/bcm4329.ko:system/lib/modules/bcm4329.ko \
-	device/acer/picasso/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko \
+	device/acer/picasso/modules/bcm4329.ko:system/lib/modules/bcm4329.ko \
+	device/acer/picasso/modules/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko \
 	device/acer/picasso/nvram.txt:system/etc/nvram.txt \

@@ -1,5 +1,7 @@
 Device configuration for the acer iconia a500 (picasso)
 
+NOTE: both extract-files.sh and local-extract-files.sh are broken and will destroy your vendor/acer folder. I am currently to lazy to finish them. Ill work on it once I feel the vendor tree is more stable. currently I am changing to many things around to make changes to all of the scripts. 
+
 to compile cm version go to /vendor/cm/vendorsetup.sh
 and add "add_lunch_combo cm_picasso-userdebug"
 
