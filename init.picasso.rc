@@ -204,3 +204,7 @@ on property:net.netdump.enable=1
 
 on property:net.netdump.enable=0
     stop netdump-service
+
+chmod 666 /dev/tegra_dc0
+chmod 666 /dev/tegra_dc1
+

@@ -36,3 +36,17 @@ PRODUCT_COPY_FILES += \
 	device/acer/picasso/modules/bcm4329.ko:system/lib/modules/bcm4329.ko \
 	device/acer/picasso/modules/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko \
 	device/acer/picasso/nvram.txt:system/etc/nvram.txt \
+	device/acer/picasso/video/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
+	device/acer/picasso/video/libcgdrv.so:system/lib/libcgdrv.so \
+	device/acer/picasso/video/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \
+	device/acer/picasso/video/libnvmm_vp6_video.so:system/lib/libnvmm_vp6_video.so \
+	device/acer/picasso/video/libnvos.so:system/lib/libnvos.so \
+	device/acer/picasso/video/libnvrm.so:system/lib/libnvrm.so \
+	device/acer/picasso/video/libnvrm_graphics.so:system/lib/libnvrm_graphics.so \
+	device/acer/picasso/video/libnvwinsys.so:system/lib/libnvwinsys.so \
+	device/acer/picasso/video/libnvwsi.so:system/lib/libnvwsi.so \
+	device/acer/picasso/video/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
+	device/acer/picasso/video/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
+	device/acer/picasso/video/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
+	device/acer/picasso/video/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+	device/acer/picasso/video/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
